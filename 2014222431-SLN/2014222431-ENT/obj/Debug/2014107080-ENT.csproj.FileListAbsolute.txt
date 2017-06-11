@@ -1,0 +1,10 @@
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\bin\Debug\2014107080-ENT.dll.config
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\bin\Debug\2014107080-ENT.dll
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\bin\Debug\2014107080-ENT.pdb
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\bin\Debug\EntityFramework.dll
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\bin\Debug\EntityFramework.xml
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\obj\Debug\2014107080-ENT.dll
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\obj\Debug\2014107080-ENT.pdb
+C:\Users\Clase\Desktop\2014107080\2014107080-SLN\2014107080-ENT\obj\Debug\2014107080-ENT.csprojResolveAssemblyReference.cache
